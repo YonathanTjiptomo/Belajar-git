@@ -1,5 +1,5 @@
 .banner {
-    background: url("assets/img/prisma.jpg")
+    background: url("/assets/img/prisma.jpg")
     no-repeat center center;
     background-size: cover;
     padding-top: 20%;
@@ -47,7 +47,7 @@ a.social {
 }
   
 .kontak {
-    background: url("assets/img/prisma.jpg") no-repeat
+    background: url("/assets/img/prisma.jpg") no-repeat
       center center;
     background-size: cover;
     padding-bottom: 20%;
